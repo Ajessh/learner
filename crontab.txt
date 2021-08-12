@@ -1,0 +1,1 @@
+1-59 * * * * bash /var/script/monitor_df.sh --report /etc/cron.hourly
