@@ -1,9 +1,9 @@
 
   ######## EC2 Instance AMI image created using terraform ######
   
-  # AMI ID   =  ami-008d565c72ed6b4a6
+  # AMI ID   =  ami-0ae4467aa38183e71
   
-  # AMI Name = aws-learner-image
+  # AMI Name = aws-technical-project
   
   
   ---------------------------------
